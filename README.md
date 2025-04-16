@@ -1,7 +1,7 @@
 # Dokumentace k hernímu projektu
 
 **Autor:** Lukáš Fichtner  
-**Název hry:** Top-down střílečka
+**Název hry:** Střílečka z vrvchu
 
 ---
 
@@ -105,6 +105,8 @@ Při vývoji jsem narazil na několik technických komplikací. Nejsložitějš�
 
 Velmi se omlouvám panu učiteli.  
 Měl jsem problém s počítačem – po spuštění Godotu mi opakovaně naskakoval **modrý displej smrti (Blue Screen)**. Kvůli tomu jsem nestihl projekt plně dokončit v plánovaném rozsahu.
+
+Proto žádám o známkování toho co mám popřípadě dát mi horší známku třeba o stupeň nechám to na vás.
 
 Odevzdávám proto **ne zcela hotovou, ale funkční hru**, kde je možné si vyzkoušet hlavní herní mechaniky.  
 Děkuji za pochopení.
